@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://github.com/jgreen1tc/liftoff-assignments/blob/master/P3-Project_Planning/landing-login-signup-wireframe.pdf
+
+https://github.com/jgreen1tc/liftoff-assignments/blob/master/P3-Project_Planning/create-char-test-wireframe.pdf
 
 ### Project Tracker
 
@@ -16,4 +18,4 @@ https://trello.com/b/tQ2ZLFoh/project-board
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/jgreen1tc/liftoff-assignments.git
